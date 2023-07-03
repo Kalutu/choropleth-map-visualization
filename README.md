@@ -26,8 +26,11 @@ The project relies on the following libraries:
 
 - [D3.js](https://d3js.org/) (v7) - A JavaScript library for creating data-driven documents.
 
+## Contributing
+Contributions are welcome! If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
+
 ## Credits
-This project is part of the [FreeCodeCamp Data Visualization Certification](https://www.freecodecamp.org/learn/data-visualization/) course. It was completed as one of the required projects in the curriculum.
+This Choropleth Map project is part of the [FreeCodeCamp Data Visualization Certification](https://www.freecodecamp.org/learn/data-visualization/) course. It was completed as one of the required projects in the curriculum.
 
 FreeCodeCamp (FCC) is a nonprofit organization that offers a comprehensive curriculum for learning web development and data visualization. The Data Visualization Certification focuses on teaching students how to effectively represent and analyze data through visualizations.
 
