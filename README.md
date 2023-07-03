@@ -5,7 +5,7 @@ The choropleth map displays county-level education data, where each county is co
 
 ## Preview
 
-![Choropleth Map](choropleth-map.jpg)
+![Choropleth Map](img/choropleth-map.jpg)
 
 ## Features
 - Interactive map with tooltips: Hover over a county to view detailed information about the county's education statistics.
