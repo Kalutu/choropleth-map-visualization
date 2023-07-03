@@ -1,5 +1,7 @@
 # Choropleth Map Visualization
-This project demonstrates how to create a choropleth map visualization using D3.js. The choropleth map displays county-level education data, where each county is colored based on the percentage of people with a bachelor's degree or higher.
+This web application displays a choropleth map of the United States, representing the percentage of adults age 25 and older with a bachelor's degree or higher. The map utilizes D3.js and TopoJSON to visualize the data.
+
+The choropleth map displays county-level education data, where each county is colored based on the percentage of people with a bachelor's degree or higher.
 
 ## Preview
 
